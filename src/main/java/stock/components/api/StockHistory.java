@@ -4,8 +4,12 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import stock.components.analysis.AnalysisPosNeg;
 import stock.components.model.HistoryData;
 import stock.components.utility.FetchHistoryUtil;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by yuyang on 11/2/18.
@@ -53,4 +57,23 @@ public class StockHistory {
         String url = String.format(sixMonthsURL, symbol);
         return getStockData(url);
     }
+
+    @RequestMapping("analysis/one_day")
+    List<AnalysisPosNeg.Result> getOneDayAnalysisResult(@RequestParam(value = "symbol") String symbol,
+                                                        @RequestParam(value = "type") String type) {
+
+        String url = String.format(oneDayURL, symbol);
+
+        HistoryData historyData = getStockData(url);
+
+        List<AnalysisPosNeg.Result> ret = new ArrayList<>();
+
+        if (type.equals("trail_stop")) {
+            AnalysisPosNeg analysis = new AnalysisPosNeg(historyData);
+            ret = analysis.calculateGain(1, 10, 0);
+        }
+
+        return ret;
+    }
+
 }
