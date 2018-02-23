@@ -2,6 +2,7 @@ package stock.components.utility;
 
 import lombok.Data;
 import org.apache.http.HttpResponse;
+import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
@@ -15,6 +16,12 @@ import java.io.InputStreamReader;
  */
 public class NetworkUtil {
 
+    private static final int timeOut = 2000;
+    private static final RequestConfig config = RequestConfig.custom().
+            setSocketTimeout(timeOut).
+            setConnectTimeout(timeOut).
+            setConnectionRequestTimeout(timeOut).
+            build();
 
 
     @Data
@@ -38,6 +45,7 @@ public class NetworkUtil {
 
         CloseableHttpClient client = HttpClientBuilder.create().build();
         HttpGet request = new HttpGet(url);
+        request.setConfig(config);
         StringBuffer result = new StringBuffer();
         HttpResponse response = null;
 

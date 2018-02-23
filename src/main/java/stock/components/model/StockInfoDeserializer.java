@@ -20,7 +20,7 @@ public class StockInfoDeserializer implements JsonDeserializer<StockInfos> {
             StockInfos.StockInfo info = new StockInfos.StockInfo();
             info.setSymbol(item.get("symbol").getAsString());
             info.setName(item.get("name").getAsString());
-            info.setName(item.get("exch").getAsString());
+            info.setExch(item.get("exch").getAsString());
             info.setType(item.get("type").getAsString());
             info.setExchDisp(item.get("exchDisp").getAsString());
             info.setTypeDisp(item.get("typeDisp").getAsString());

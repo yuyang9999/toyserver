@@ -19,6 +19,22 @@ public class IOUtility {
         while ((line = br.readLine()) != null) {
             ret.add(line);
         }
+        br.close();
+
+        return ret;
+    }
+
+    static public List<String> readSystemFileContent(String path) throws IOException {
+        List<String> ret = new ArrayList<>();
+
+        BufferedReader br = new BufferedReader(new FileReader(path));
+        String line;
+        while ((line = br.readLine()) != null) {
+            if (!line.equals("")) {
+                ret.add(line);
+            }
+        }
+        br.close();
 
         return ret;
     }
