@@ -50,7 +50,8 @@ public class StockInfoUtility {
         if (writeFile.exists()) {
             List<String> processSymbols = IOUtility.readSystemFileContent(writePath);
             for (String s: processSymbols) {
-                procSet.add(s);
+
+                procSet.add(s.split("\t")[0]);
             }
         }
 
