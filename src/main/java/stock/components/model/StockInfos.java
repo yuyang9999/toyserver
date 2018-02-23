@@ -20,9 +20,5 @@ public class StockInfos {
         private String typeDisp;
     }
 
-    private List<StockInfo> stockInfoList;
-
-    public StockInfos() {
-        stockInfoList = new ArrayList<>();
-    }
+    private List<StockInfo> stockInfoList = new ArrayList<>();
 }
