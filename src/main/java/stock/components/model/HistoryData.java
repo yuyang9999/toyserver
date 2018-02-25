@@ -28,6 +28,12 @@ public class HistoryData {
     public HistoryData(JsonArray times, JsonArray opens, JsonArray closes,
                        JsonArray highs, JsonArray lows, JsonArray volumes) {
         rows = new ArrayList<TimeSlotData>();
+
+        if (times == null || opens == null || closes == null || highs == null ||
+                lows == null || volumes == null) {
+            return;
+        }
+
         if (times.size() != opens.size() || times.size() != closes.size() ||
                 times.size() != highs.size() || times.size() != lows.size() ||
                 times.size() != volumes.size()) {
@@ -45,7 +51,6 @@ public class HistoryData {
             if (timeElem.isJsonNull() || openElem.isJsonNull() || closeElem.isJsonNull() ||
                     highElem.isJsonNull() || lowElem.isJsonNull() || volumeElem.isJsonNull()) {
 
-                System.out.println("null find");
                 continue;
             }
 

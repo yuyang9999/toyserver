@@ -16,17 +16,21 @@ import java.io.InputStreamReader;
  * Created by yuyang on 11/2/18.
  */
 public class FetchHistoryUtil  {
+    static private final String oneDayURL = "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=1d&includePrePost=false&interval=2m&corsDomain=finance.yahoo.com&.tsrc=finance";
+    static private final String fiveDaysURL = "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=5d&includePrePost=false&interval=15m&corsDomain=finance.yahoo.com&.tsrc=finance";
+    static private final String oneMonthsURL = "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=1mo&includePrePost=false&interval=30m&corsDomain=finance.yahoo.com&.tsrc=finance";
+    static private final String sixMonthsURL = "https://query1.finance.yahoo.com/v8/finance/chart/%s?range=6mo&includePrePost=false&interval=1d&corsDomain=finance.yahoo.com&.tsrc=finance";
+
 
     static GsonBuilder gsonBuilder;
 
     static {
         gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(HistoryData.class, new HistoryDataDeserializer());
-        System.out.println("");
     }
 
 
-    public static HistoryData getHistoryData(String url) throws Exception {
+    private static HistoryData getHistoryData(String url) throws Exception {
 
         HistoryData ret = new HistoryData();
 
@@ -62,6 +66,26 @@ public class FetchHistoryUtil  {
         ret = gson.fromJson(data, HistoryData.class);
 
         return ret;
+    }
+
+    public static HistoryData getOneDayHistory(String symbol) throws Exception {
+        String fullUrl = String.format(oneDayURL, symbol);
+        return getHistoryData(fullUrl);
+    }
+
+    public static HistoryData getFiveDayHistory(String symbol) throws Exception {
+        String fullUrl = String.format(fiveDaysURL, symbol);
+        return getHistoryData(fullUrl);
+    }
+
+    public static HistoryData getOneMonthHistody(String symbol) throws Exception {
+        String fullUrl = String.format(oneMonthsURL, symbol);
+        return getHistoryData(fullUrl);
+    }
+
+    public static HistoryData getSixMonthHistory(String symbol) throws Exception {
+        String fullUrl = String.format(sixMonthsURL, symbol);
+        return getHistoryData(fullUrl);
     }
 
     public static void main(String[] args) throws Exception {

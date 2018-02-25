@@ -10,7 +10,6 @@ import java.lang.reflect.Type;
 public class HistoryDataDeserializer implements JsonDeserializer<HistoryData>{
     @Override
     public HistoryData deserialize(JsonElement jsonElement, Type type, JsonDeserializationContext jsonDeserializationContext) throws JsonParseException {
-        System.out.println(jsonElement);
 
         JsonObject object = ((JsonObject) jsonElement).getAsJsonObject("chart");
         JsonElement result = object.getAsJsonArray("result").get(0);
