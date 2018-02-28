@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import stock.components.analysis.AnalysisPosNeg;
+import stock.components.data_fetcher.SymbolQuery;
 import stock.components.model.HistoryData;
 import stock.components.utility.FetchHistoryUtil;
 
@@ -51,6 +52,16 @@ public class StockHistory {
         }
 
         return ret;
+    }
+
+    @RequestMapping("test")
+    String test() {
+        return "test";
+    }
+
+    @RequestMapping("query")
+    List<String> getSuggestSymbols(@RequestParam(value = "symbol") String queryString) {
+        return SymbolQuery.getSuggestSymbols(queryString);
     }
 
 }
