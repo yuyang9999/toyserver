@@ -1,0 +1,506 @@
+Ticker	GICS Sector	GICS Sub Industry	Name
+MAT	Consumer Discretionary	Leisure Products	Mattel, Inc.
+NCLH	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Norwegian Cruise Line Holdings Ltd
+ULTA	Consumer Discretionary	Specialty Stores	Ulta Beauty Inc
+MGM	Consumer Discretionary	Casinos & Gaming	MGM Resorts International
+NWSA	Consumer Discretionary	Publishing	News Corp
+DG	Consumer Discretionary	General Merchandise Stores	Dollar General Corp.
+RCL	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Royal Caribbean Cruises Ltd
+KMX	Consumer Discretionary	Specialty Stores	CarMax, Inc
+NWS	Consumer Discretionary	Publishing	News Corp
+DISCA	Consumer Discretionary	Cable & Satellite	Discovery Inc
+PVH	Consumer Discretionary	Apparel, Accessories & Luxury Goods	PVH Corp
+DISCK	Consumer Discretionary	Cable & Satellite	Discovery Inc
+GRMN	Consumer Discretionary	Consumer Electronics	Garmin Ltd.
+TGT	Consumer Discretionary	General Merchandise Stores	Target Corporation
+GPC	Consumer Discretionary	Specialty Stores	Genuine Parts Company
+DHI	Consumer Discretionary	Homebuilding	D. R. Horton Inc
+ORLY	Consumer Discretionary	Specialty Stores	O'Reilly Automotive Inc
+WHR	Consumer Discretionary	Household Appliances	Whirlpool Corporation
+WYNN	Consumer Discretionary	Casinos & Gaming	Wynn Resorts, Limited
+RL	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Ralph Lauren Corp
+CHTR	Consumer Discretionary	Cable & Satellite	Charter Communications, Inc.
+YUM	Consumer Discretionary	Restaurants	Yum! Brands, Inc.
+CCL	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Carnival Corp
+MCD	Consumer Discretionary	Restaurants	McDonald's Corporation
+TIF	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Tiffany & Co.
+HLT	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Hilton Worldwide Holdings Inc
+WYN	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Wyndham Worldwide Corporation
+PHM	Consumer Discretionary	Homebuilding	PulteGroup, Inc.
+LOW	Consumer Discretionary	Home Improvement Retail	Lowe's Companies, Inc.
+SNA	Consumer Discretionary	Household Appliances	Snap-on Incorporated
+LEN	Consumer Discretionary	Homebuilding	Lennar Corporation
+AZO	Consumer Discretionary	Specialty Stores	AutoZone, Inc.
+DLTR	Consumer Discretionary	General Merchandise Stores	Dollar Tree, Inc.
+AMZN	Consumer Discretionary	Internet & Direct Marketing Retail	Amazon.com, Inc.
+ROST	Consumer Discretionary	Apparel Retail	Ross Stores, Inc.
+SNI	Consumer Discretionary	Cable & Satellite	Scripps Networks Interactive, Inc.
+TWX	Consumer Discretionary	Cable & Satellite	Time Warner Inc
+M	Consumer Discretionary	Department Stores	Macy's Inc
+SWK	Consumer Discretionary	Household Appliances	Stanley Black & Decker, Inc.
+OMC	Consumer Discretionary	Advertising	Omnicom Group Inc.
+KSS	Consumer Discretionary	General Merchandise Stores	Kohl's Corporation
+SIG	Consumer Discretionary	Specialty Stores	Signet Jewelers Ltd.
+GM	Consumer Discretionary	Automobile Manufacturers	General Motors Company
+HD	Consumer Discretionary	Home Improvement Retail	Home Depot Inc
+JWN	Consumer Discretionary	Department Stores	Nordstrom, Inc.
+TRIP	Consumer Discretionary	Internet & Direct Marketing Retail	Tripadvisor Inc
+BWA	Consumer Discretionary	Auto Parts & Equipment	BorgWarner Inc.
+MHK	Consumer Discretionary	Home Furnishings	Mohawk Industries, Inc.
+MAR	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Marriott International Inc
+VFC	Consumer Discretionary	Apparel, Accessories & Luxury Goods	VF Corp
+BBY	Consumer Discretionary	Computer & Electronics Retail	Best Buy Co Inc
+KORS	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Michael Kors Holdings Ltd
+F	Consumer Discretionary	Automobile Manufacturers	Ford Motor Company
+SBUX	Consumer Discretionary	Restaurants	Starbucks Corporation
+CBS	Consumer Discretionary	Broadcasting	CBS Corporation
+HAS	Consumer Discretionary	Leisure Products	Hasbro, Inc.
+VIAB	Consumer Discretionary	Cable & Satellite	Viacom, Inc.
+TJX	Consumer Discretionary	Apparel Retail	TJX Companies Inc
+PCLN	Consumer Discretionary	Internet & Direct Marketing Retail	Priceline Group Inc
+LEG	Consumer Discretionary	Home Furnishings	Leggett & Platt, Inc.
+DIS	Consumer Discretionary	Cable & Satellite	Walt Disney Co
+NKE	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Nike Inc
+DRI	Consumer Discretionary	Restaurants	Darden Restaurants, Inc.
+DISH	Consumer Discretionary	Cable & Satellite	DISH Network Corp
+LKQ	Consumer Discretionary	Distributors	LKQ Corporation
+TPR	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Tapestry Inc
+GT	Consumer Discretionary	Tires & Rubber	Goodyear Tire & Rubber Co
+FOX	Consumer Discretionary	Publishing	Twenty-First Century Fox Inc
+EXPE	Consumer Discretionary	Internet & Direct Marketing Retail	Expedia Inc
+HOG	Consumer Discretionary	Motorcycle Manufacturers	Harley-Davidson Inc
+FL	Consumer Discretionary	Apparel Retail	Foot Locker, Inc.
+NWL	Consumer Discretionary	Housewares & Specialties	Newell Brands Inc
+UAA	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Under Armour Inc
+LB	Consumer Discretionary	Apparel Retail	L Brands Inc
+CMG	Consumer Discretionary	Restaurants	Chipotle Mexican Grill, Inc.
+GPS	Consumer Discretionary	Apparel Retail	Gap Inc
+FOXA	Consumer Discretionary	Publishing	Twenty-First Century Fox Inc
+TSCO	Consumer Discretionary	Specialty Stores	Tractor Supply Company
+IPG	Consumer Discretionary	Advertising	Interpublic Group of Companies Inc
+HBI	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Hanesbrands Inc.
+UA	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Under Armour Inc
+AAP	Consumer Discretionary	Automotive Retail	Advance Auto Parts, Inc.
+CMCSA	Consumer Discretionary	Cable & Satellite	Comcast Corporation
+DLPH	Consumer Discretionary	Auto Parts & Equipment	Delphi Technologies PLC
+KMB	Consumer Staples	Household Products	Kimberly Clark Corp
+CL	Consumer Staples	Household Products	Colgate-Palmolive Company
+COST	Consumer Staples	Hypermarkets & Super Centers	Costco Wholesale Corporation
+K	Consumer Staples	Packaged Foods & Meats	Kellogg Company
+BF.B	Consumer Staples	Distillers & Vintners	Brown-Forman Corporation
+CVS	Consumer Staples	Drug Retail	CVS Health Corp
+EL	Consumer Staples	Personal Products	Estee Lauder Companies Inc
+TAP	Consumer Staples	Brewers	Molson Coors Brewing Co
+KR	Consumer Staples	Food Retail	Kroger Co
+PG	Consumer Staples	Personal Products	Procter & Gamble Co
+DPS	Consumer Staples	Soft Drinks	Dr Pepper Snapple Group Inc.
+WBA	Consumer Staples	Drug Retail	Walgreens Boots Alliance Inc
+KO	Consumer Staples	Soft Drinks	The Coca-Cola Co
+SYY	Consumer Staples	Food Distributors	SYSCO Corporation
+WMT	Consumer Staples	Hypermarkets & Super Centers	Walmart Inc
+HRL	Consumer Staples	Packaged Foods & Meats	Hormel Foods Corp
+MDLZ	Consumer Staples	Packaged Foods & Meats	Mondelez International Inc
+MNST	Consumer Staples	Soft Drinks	Monster Beverage Corporation
+ADM	Consumer Staples	Agricultural Products	Archer Daniels Midland Co
+PEP	Consumer Staples	Soft Drinks	PepsiCo, Inc.
+TSN	Consumer Staples	Packaged Foods & Meats	Tyson Foods, Inc.
+CLX	Consumer Staples	Household Products	Clorox Co
+MO	Consumer Staples	Tobacco	Altria Group Inc
+HSY	Consumer Staples	Packaged Foods & Meats	Hershey Co
+GIS	Consumer Staples	Packaged Foods & Meats	General Mills, Inc.
+KHC	Consumer Staples	Packaged Foods & Meats	Kraft Heinz Co
+CAG	Consumer Staples	Packaged Foods & Meats	Conagra Brands Inc
+STZ	Consumer Staples	Distillers & Vintners	Constellation Brands, Inc.
+SJM	Consumer Staples	Packaged Foods & Meats	J M Smucker Co
+MKC	Consumer Staples	Packaged Foods & Meats	McCormick & Company, Incorporated
+CHD	Consumer Staples	Household Products	Church & Dwight Co., Inc.
+PM	Consumer Staples	Tobacco	Philip Morris International Inc.
+CPB	Consumer Staples	Packaged Foods & Meats	Campbell Soup Company
+COTY	Consumer Staples	Personal Products	Coty Inc
+COG	Energy	Oil & Gas Exploration & Production	Cabot Oil & Gas Corporation
+EQT	Energy	Oil & Gas Exploration & Production	EQT Corporation
+RRC	Energy	Oil & Gas Exploration & Production	Range Resources Corp.
+KMI	Energy	Oil & Gas Storage & Transportation	Kinder Morgan Inc
+CXO	Energy	Oil & Gas Exploration & Production	Concho Resources Inc
+EOG	Energy	Oil & Gas Exploration & Production	EOG Resources Inc
+APA	Energy	Oil & Gas Exploration & Production	Apache Corporation
+CHK	Energy	Oil & Gas Exploration & Production	Chesapeake Energy Corporation
+CVX	Energy	Integrated Oil & Gas	Chevron Corporation
+PSX	Energy	Oil & Gas Refining & Marketing	Phillips 66
+HES	Energy	Integrated Oil & Gas	Hess Corp.
+SLB	Energy	Oil & Gas Equipment & Services	Schlumberger Limited.
+OKE	Energy	Oil & Gas Storage & Transportation	ONEOK, Inc.
+VLO	Energy	Oil & Gas Refining & Marketing	Valero Energy Corporation
+ANDV	Energy	Oil & Gas Refining & Marketing	Andeavor
+XOM	Energy	Integrated Oil & Gas	Exxon Mobil Corporation
+NFX	Energy	Oil & Gas Exploration & Production	Newfield Exploration Co.
+NOV	Energy	Oil & Gas Equipment & Services	National-Oilwell Varco, Inc.
+MPC	Energy	Oil & Gas Refining & Marketing	Marathon Petroleum Corp
+HAL	Energy	Oil & Gas Equipment & Services	Halliburton Company
+NBL	Energy	Oil & Gas Exploration & Production	Noble Energy, Inc.
+PXD	Energy	Oil & Gas Exploration & Production	Pioneer Natural Resources
+DVN	Energy	Oil & Gas Exploration & Production	Devon Energy Corp
+FTI	Energy	Oil & Gas Equipment & Services	TechnipFMC plc Ordinary Share
+WMB	Energy	Oil & Gas Storage & Transportation	Williams Companies Inc
+MRO	Energy	Oil & Gas Exploration & Production	Marathon Oil Corporation
+COP	Energy	Oil & Gas Exploration & Production	ConocoPhillips
+XEC	Energy	Oil & Gas Exploration & Production	Cimarex Energy Co
+OXY	Energy	Oil & Gas Exploration & Production	Occidental Petroleum Corporation
+BHGE	Energy	Oil & Gas Equipment & Services	Baker Hughes, a GE company Class A
+HP	Energy	Oil & Gas Drilling	Helmerich & Payne, Inc.
+APC	Energy	Oil & Gas Exploration & Production	Anadarko Petroleum Corporation
+AJG	Financials	Insurance Brokers	Arthur J Gallagher & Co
+PFG	Financials	Life & Health Insurance	Principal Financial Group Inc
+SYF	Financials	Consumer Finance	Synchrony Financial
+IVZ	Financials	Asset Management & Custody Banks	Invesco Ltd.
+AMG	Financials	Asset Management & Custody Banks	Affiliated Managers Group, Inc.
+CINF	Financials	Property & Casualty Insurance	Cincinnati Financial Corporation
+UNM	Financials	Life & Health Insurance	Unum Group
+WLTW	Financials	Insurance Brokers	Willis Towers Watson PLC
+HRB	Financials	Consumer Finance	H & R Block Inc
+BEN	Financials	Asset Management & Custody Banks	Franklin Resources, Inc.
+NDAQ	Financials	Financial Exchanges & Data	Nasdaq Inc
+CME	Financials	Financial Exchanges & Data	CME Group Inc
+CB	Financials	Property & Casualty Insurance	Chubb Ltd
+AON	Financials	Insurance Brokers	Aon plc Class A Ordinary Shares (UK)
+PRU	Financials	Life & Health Insurance	Prudential Financial Inc
+COF	Financials	Consumer Finance	Capital One Financial Corp.
+TMK	Financials	Life & Health Insurance	Torchmark Corporation
+BHF	Financials	Life & Health Insurance	Brighthouse Financial Inc
+MCO	Financials	Financial Exchanges & Data	Moody's Corporation
+LUK	Financials	Multi-Sector Holdings	Leucadia National Corp.
+AXP	Financials	Consumer Finance	American Express Company
+AIG	Financials	Property & Casualty Insurance	American International Group Inc
+AIZ	Financials	Multi-line Insurance	Assurant, Inc.
+MMC	Financials	Insurance Brokers	Marsh & McLennan Companies, Inc.
+AFL	Financials	Life & Health Insurance	AFLAC Incorporated
+PGR	Financials	Property & Casualty Insurance	Progressive Corp
+TRV	Financials	Property & Casualty Insurance	Travelers Companies Inc
+XL	Financials	Property & Casualty Insurance	XL Group Ltd.
+PBCT	Financials	Thrifts & Mortgage Finance	People's United Financial, Inc.
+USB	Financials	Diversified Banks	U.S. Bancorp
+ETFC	Financials	Investment Banking & Brokerage	E*TRADE Financial Corp
+C	Financials	Diversified Banks	Citigroup Inc
+RJF	Financials	Investment Banking & Brokerage	Raymond James Financial, Inc.
+MET	Financials	Life & Health Insurance	Metlife Inc
+ICE	Financials	Financial Exchanges & Data	Intercontinental Exchange Inc
+L	Financials	Multi-line Insurance	Loews Corporation
+FITB	Financials	Regional Banks	Fifth Third Bancorp
+AMP	Financials	Asset Management & Custody Banks	Ameriprise Financial, Inc.
+LNC	Financials	Multi-line Insurance	Lincoln National Corporation
+TROW	Financials	Asset Management & Custody Banks	T. Rowe Price Group Inc
+BK	Financials	Asset Management & Custody Banks	Bank of New York Mellon Corp
+ZION	Financials	Regional Banks	Zions Bancorp
+DFS	Financials	Consumer Finance	Discover Financial Services
+BLK	Financials	Asset Management & Custody Banks	BlackRock, Inc.
+SPGI	Financials	Financial Exchanges & Data	S&P Global Inc
+CBOE	Financials	Financial Exchanges & Data	Cboe Global Markets Inc
+STT	Financials	Asset Management & Custody Banks	State Street Corp
+JPM	Financials	Diversified Banks	JPMorgan Chase & Co.
+HIG	Financials	Property & Casualty Insurance	Hartford Financial Services Group Inc
+NTRS	Financials	Asset Management & Custody Banks	Northern Trust Corporation
+NAVI	Financials	Consumer Finance	Navient Corp
+BBT	Financials	Regional Banks	BB&T Corporation
+ALL	Financials	Property & Casualty Insurance	Allstate Corp
+RE	Financials	Reinsurance	Everest Re Group Ltd
+BAC	Financials	Diversified Banks	Bank of America Corp
+MTB	Financials	Regional Banks	M&T Bank Corporation
+CFG	Financials	Regional Banks	Citizens Financial Group Inc
+BRK.B	Financials	Multi-Sector Holdings	Berkshire Hathaway Inc.
+KEY	Financials	Regional Banks	KeyCorp
+STI	Financials	Regional Banks	SunTrust Banks, Inc.
+CMA	Financials	Diversified Banks	Comerica Incorporated
+HBAN	Financials	Regional Banks	Huntington Bancshares Incorporated
+PNC	Financials	Regional Banks	PNC Financial Services Group Inc
+SCHW	Financials	Investment Banking & Brokerage	Charles Schwab Corp
+RF	Financials	Regional Banks	Regions Financial Corp
+WFC	Financials	Diversified Banks	Wells Fargo & Co
+MS	Financials	Investment Banking & Brokerage	Morgan Stanley
+GS	Financials	Investment Banking & Brokerage	Goldman Sachs Group Inc
+INCY	Health Care	Biotechnology	Incyte Corporation
+EW	Health Care	Health Care Equipment	Edwards Lifesciences Corp
+MYL	Health Care	Pharmaceuticals	Mylan N.V.
+ILMN	Health Care	Life Sciences Tools & Services	Illumina, Inc.
+RMD	Health Care	Health Care Equipment	ResMed Inc.
+REGN	Health Care	Biotechnology	Regeneron Pharmaceuticals Inc
+HOLX	Health Care	Health Care Equipment	Hologic, Inc.
+ISRG	Health Care	Health Care Equipment	Intuitive Surgical, Inc.
+HSIC	Health Care	Health Care Distributors	Henry Schein, Inc.
+CI	Health Care	Managed Health Care	CIGNA Corporation
+ABBV	Health Care	Pharmaceuticals	AbbVie Inc
+VRTX	Health Care	Biotechnology	Vertex Pharmaceuticals Incorporated
+AMGN	Health Care	Biotechnology	Amgen, Inc.
+UNH	Health Care	Managed Health Care	UnitedHealth Group Inc
+BIIB	Health Care	Biotechnology	Biogen Inc
+IDXX	Health Care	Health Care Equipment	IDEXX Laboratories, Inc.
+LLY	Health Care	Pharmaceuticals	Eli Lilly and Co
+IQV	Health Care	Life Sciences Tools & Service	Iqvia Holdings Inc
+AGN	Health Care	Pharmaceuticals	Allergan plc Ordinary Shares
+GILD	Health Care	Biotechnology	Gilead Sciences, Inc.
+WAT	Health Care	Health Care Distributors	Waters Corporation
+CAH	Health Care	Health Care Distributors	Cardinal Health Inc
+A	Health Care	Health Care Equipment	Agilent Technologies Inc
+AET	Health Care	Managed Health Care	Aetna Inc
+TMO	Health Care	Health Care Equipment	Thermo Fisher Scientific Inc.
+MTD	Health Care	Life Sciences Tools & Services	Mettler-Toledo International Inc.
+BCR	Health Care	Health Care Equipment	C R Bard Inc
+DGX	Health Care	Health Care Services	Quest Diagnostics Inc
+ESRX	Health Care	Health Care Distributors	Express Scripts Holding Company
+COO	Health Care	Health Care Supplies	Cooper Companies Inc
+LH	Health Care	Health Care Services	Laboratory Corp. of America Holdings
+XRAY	Health Care	Health Care Supplies	DENTSPLY SIRONA Inc
+BAX	Health Care	Health Care Equipment	Baxter International Inc
+PKI	Health Care	Health Care Equipment	PerkinElmer, Inc.
+CERN	Health Care	Health Care Technology	Cerner Corporation
+VAR	Health Care	Health Care Equipment	Varian Medical Systems, Inc.
+ZBH	Health Care	Health Care Equipment	Zimmer Biomet Holdings Inc
+ALGN	Health Care	Health Care Supplies	Align Technology, Inc.
+MCK	Health Care	Health Care Distributors	McKesson Corporation
+BDX	Health Care	Health Care Equipment	Becton Dickinson and Co
+PRGO	Health Care	Pharmaceuticals	Perrigo Company plc Ordinary Shares
+HUM	Health Care	Managed Health Care	Humana Inc
+BMY	Health Care	Health Care Distributors	Bristol-Myers Squibb Co
+BSX	Health Care	Health Care Equipment	Boston Scientific Corporation
+CNC	Health Care	Managed Health Care	Centene Corp
+DHR	Health Care	Health Care Equipment	Danaher Corporation
+ABC	Health Care	Health Care Distributors	AmerisourceBergen Corp.
+CELG	Health Care	Biotechnology	Celgene Corporation
+SYK	Health Care	Health Care Equipment	Stryker Corporation
+ZTS	Health Care	Pharmaceuticals	Zoetis Inc
+PDCO	Health Care	Health Care Supplies	Patterson Companies, Inc.
+PFE	Health Care	Pharmaceuticals	Pfizer Inc.
+MRK	Health Care	Pharmaceuticals	Merck & Co., Inc.
+ANTM	Health Care	Managed Health Care	Anthem Inc
+DVA	Health Care	Health Care Facilities	Davita Inc
+MDT	Health Care	Health Care Equipment	Medtronic plc. Ordinary Shares
+HCA	Health Care	Health Care Facilities	HCA Healthcare Inc
+UHS	Health Care	Health Care Facilities	Universal Health Services, Inc.
+JNJ	Health Care	Health Care Equipment	Johnson & Johnson
+ABT	Health Care	Health Care Equipment	Abbott Laboratories
+EVHC	Health Care	Health Care Services	Envision Healthcare Corporation
+ALXN	Health Care	Biotechnology	Alexion Pharmaceuticals, Inc.
+GD	Industrials	Aerospace & Defense	General Dynamics Corporation
+TDG	Industrials	Aerospace & Defense	TransDigm Group Incorporated
+IR	Industrials	Industrial Machinery	Ingersoll-Rand PLC
+AAL	Industrials	Airlines	American Airlines Group Inc
+FBHS	Industrials	Building Products	Fortune Brands Home & Security Inc
+FAST	Industrials	Building Products	Fastenal Company
+DAL	Industrials	Airlines	Delta Air Lines, Inc.
+UAL	Industrials	Airlines	United Continental Holdings Inc
+GWW	Industrials	Industrial Machinery	W W Grainger Inc
+MMM	Industrials	Industrial Conglomerates	3M Co
+CMI	Industrials	Industrial Machinery	Cummins Inc.
+FLS	Industrials	Industrial Machinery	Flowserve Corp
+DE	Industrials	Agricultural & Farm Machinery	Deere & Company
+RHI	Industrials	Human Resource & Employment Services	Robert Half International Inc.
+WM	Industrials	Environmental & Facilities Services	Waste Management, Inc.
+CTAS	Industrials	Diversified Support Services	Cintas Corporation
+FTV	Industrials	Industrial Machinery	Fortive Corp
+AOS	Industrials	Building Products	A. O. Smith Corp
+ALLE	Industrials	Building Products	Allegion PLC
+RSG	Industrials	Environmental & Facilities Services	Republic Services, Inc.
+KSU	Industrials	Railroads	Kansas City Southern
+EFX	Industrials	Research & Consulting Services	Equifax Inc.
+CAT	Industrials	Construction Machinery & Heavy Trucks	Caterpillar Inc.
+ROP	Industrials	Industrial Conglomerates	Roper Technologies Inc
+MAS	Industrials	Building Products	Masco Corp
+ITW	Industrials	Industrial Machinery	Illinois Tool Works Inc.
+CHRW	Industrials	Air Freight & Logistics	C.H. Robinson Worldwide Inc
+JBHT	Industrials	Trucking	J B Hunt Transport Services Inc
+SRCL	Industrials	Environmental & Facilities Services	Stericycle Inc
+RTN	Industrials	Aerospace & Defense	Raytheon Company
+ROK	Industrials	Electrical Components & Equipment	Rockwell Automation
+COL	Industrials	Aerospace & Defense	Rockwell Collins, Inc.
+UPS	Industrials	Air Freight & Logistics	United Parcel Service, Inc.
+NSC	Industrials	Railroads	Norfolk Southern Corp.
+LMT	Industrials	Aerospace & Defense	Lockheed Martin Corporation
+CSX	Industrials	Railroads	CSX Corporation
+PH	Industrials	Industrial Machinery	Parker-Hannifin Corp
+TXT	Industrials	Aerospace & Defense	Textron Inc.
+ETN	Industrials	Electrical Components & Equipment	Eaton Corporation, PLC Ordinary Shares
+AME	Industrials	Electrical Components & Equipment	AMETEK, Inc.
+DOV	Industrials	Industrial Machinery	Dover Corp
+URI	Industrials	Trading Companies & Distributors	United Rentals, Inc.
+UTX	Industrials	Aerospace & Defense	United Technologies Corporation
+ALK	Industrials	Airlines	Alaska Air Group, Inc.
+VRSK	Industrials	Research & Consulting Services	Verisk Analytics, Inc.
+ARNC	Industrials	Aerospace & Defense	Arconic Inc
+LUV	Industrials	Airlines	Southwest Airlines Co
+EMR	Industrials	Electrical Components & Equipment	Emerson Electric Co.
+NLSN	Industrials	Research & Consulting Services	Nielsen N.V. Ordinary Shares
+JEC	Industrials	Construction & Engineering	Jacobs Engineering Group Inc
+PNR	Industrials	Industrial Machinery	Pentair plc. Ordinary Share
+AYI	Industrials	Electrical Components & Equipment	Acuity Brands, Inc.
+XYL	Industrials	Industrial Machinery	Xylem Inc
+EXPD	Industrials	Air Freight & Logistics	Expeditors International of Washington
+PWR	Industrials	Construction & Engineering	Quanta Services Inc
+HON	Industrials	Industrial Conglomerates	Honeywell International Inc.
+LLL	Industrials	Aerospace & Defense	L3 Technologies Inc
+INFO	Industrials	Research & Consulting Services	IHS Markit Ltd
+FLR	Industrials	Construction & Engineering	Fluor Corporation (NEW)
+PCAR	Industrials	Construction Machinery & Heavy Trucks	PACCAR Inc
+NOC	Industrials	Aerospace & Defense	Northrop Grumman Corporation
+FDX	Industrials	Air Freight & Logistics	FedEx Corporation
+UNP	Industrials	Railroads	Union Pacific Corporation
+JCI	Industrials	Building Products	Johnson Controls International plc Ordinary Share
+GE	Industrials	Industrial Conglomerates	General Electric Company
+BA	Industrials	Aerospace & Defense	Boeing Co
+AMD	Information Technology	Semiconductors	Advanced Micro Devices, Inc.
+SNPS	Information Technology	Application Software	Synopsys, Inc.
+MU	Information Technology	Semiconductors	Micron Technology, Inc.
+LRCX	Information Technology	Semiconductor Equipment	Lam Research Corporation
+AMAT	Information Technology	Semiconductor Equipment	Applied Materials, Inc.
+NVDA	Information Technology	Semiconductors	NVIDIA Corporation
+HPQ	Information Technology	Technology Hardware, Storage & Peripherals	HP Inc
+MCHP	Information Technology	Semiconductors	Microchip Technology Inc.
+FIS	Information Technology	Internet Software & Services	Fidelity National Information Servcs Inc
+FB	Information Technology	Internet Software & Services	Facebook Inc
+DXC	Information Technology	IT Consulting & Other Services	DXC Technology Company
+SYMC	Information Technology	Application Software	Symantec Corporation
+NTAP	Information Technology	Internet Software & Services	NetApp Inc.
+RHT	Information Technology	Systems Software	Red Hat Inc
+HRS	Information Technology	Communications Equipment	Harris Corporation
+XLNX	Information Technology	Semiconductors	Xilinx, Inc.
+ADBE	Information Technology	Application Software	Adobe Systems Incorporated
+ANSS	Information Technology	Application Software	ANSYS, Inc.
+KLAC	Information Technology	Semiconductor Equipment	KLA-Tencor Corp
+ADP	Information Technology	Internet Software & Services	Automatic Data Processing
+INTC	Information Technology	Semiconductors	Intel Corporation
+CRM	Information Technology	Internet Software & Services	salesforce.com, inc.
+AAPL	Information Technology	Technology Hardware, Storage & Peripherals	Apple Inc.
+CSRA	Information Technology	IT Consulting & Other Services	CSRA Inc
+SWKS	Information Technology	Semiconductors	Skyworks Solutions Inc
+HPE	Information Technology	Technology Hardware, Storage & Peripherals	Hewlett Packard Enterprise Co
+QRVO	Information Technology	Semiconductors	Qorvo Inc
+FISV	Information Technology	Internet Software & Services	Fiserv Inc
+EA	Information Technology	Home Entertainment Software	Electronic Arts Inc.
+AVGO	Information Technology	Semiconductors	Broadcom Ltd
+CDNS	Information Technology	Application Software	Cadence Design Systems Inc
+QCOM	Information Technology	Semiconductors	QUALCOMM, Inc.
+ADSK	Information Technology	Application Software	Autodesk, Inc.
+ADI	Information Technology	Semiconductors	Analog Devices, Inc.
+EBAY	Information Technology	Internet Software & Services	eBay Inc
+TXN	Information Technology	Semiconductors	Texas Instruments Incorporated
+PAYX	Information Technology	Internet Software & Services	Paychex, Inc.
+ORCL	Information Technology	Application Software	Oracle Corporation
+WU	Information Technology	Internet Software & Services	The Western Union Company
+NFLX	Information Technology	Internet Software & Services	Netflix, Inc.
+GPN	Information Technology	Data Processing & Outsourced Services	Global Payments Inc
+INTU	Information Technology	Internet Software & Services	Intuit Inc.
+CTSH	Information Technology	IT Consulting & Other Services	Cognizant Technology Solutions Corp
+GOOGL	Information Technology	Internet Software & Services	Alphabet Inc
+VRSN	Information Technology	Internet Software & Services	Verisign, Inc.
+GOOG	Information Technology	Internet Software & Services	Alphabet Inc
+CSCO	Information Technology	Communications Equipment	Cisco Systems, Inc.
+TSS	Information Technology	Internet Software & Services	Total System Services, Inc.
+MSFT	Information Technology	Systems Software	Microsoft Corporation
+XRX	Information Technology	Technology Hardware, Storage & Peripherals	Xerox Corp
+APH	Information Technology	Electronic Components	Amphenol Corporation
+GLW	Information Technology	Electronic Components	Corning Incorporated
+CTXS	Information Technology	Internet Software & Services	Citrix Systems, Inc.
+PYPL	Information Technology	Data Processing & Outsourced Services	Paypal Holdings Inc
+CA	Information Technology	Systems Software	CA, Inc.
+IT	Information Technology	IT Consulting & Other Services	Gartner Inc
+AKAM	Information Technology	Internet Software & Services	Akamai Technologies, Inc.
+TEL	Information Technology	Electronic Manufacturing Services	TE Connectivity Ltd
+WDC	Information Technology	Technology Hardware, Storage & Peripherals	Western Digital Corp
+V	Information Technology	Internet Software & Services	Visa Inc
+IBM	Information Technology	IT Consulting & Other Services	International Business Machines Corp.
+ACN	Information Technology	IT Consulting & Other Services	Accenture Plc
+ADS	Information Technology	Data Processing & Outsourced Services	Alliance Data Systems Corporation
+FLIR	Information Technology	Electronic Equipment & Instruments	FLIR Systems, Inc.
+MA	Information Technology	Internet Software & Services	Mastercard Inc
+MSI	Information Technology	Communications Equipment	Motorola Solutions Inc
+JNPR	Information Technology	Communications Equipment	Juniper Networks, Inc.
+FFIV	Information Technology	Communications Equipment	F5 Networks, Inc.
+ATVI	Information Technology	Home Entertainment Software	Activision Blizzard, Inc.
+STX	Information Technology	Technology Hardware, Storage & Peripherals	Seagate Technology PLC
+BLL	Materials	Metal & Glass Containers	Ball Corporation
+IP	Materials	Paper Packaging	International Paper Co
+PKG	Materials	Paper Packaging	Packaging Corp Of America
+VMC	Materials	Construction Materials	Vulcan Materials Company
+WRK	Materials	Paper Packaging	WestRock Co
+PX	Materials	Industrial Gases	Praxair, Inc.
+ALB	Materials	Specialty Chemicals	Albemarle Corporation
+AVY	Materials	Paper Packaging	Avery Dennison Corp
+LYB	Materials	Specialty Chemicals	LyondellBasell Industries NV
+MLM	Materials	Construction Materials	Martin Marietta Materials, Inc.
+NEM	Materials	Gold	Newmont Mining Corp
+SHW	Materials	Specialty Chemicals	Sherwin-Williams Co
+APD	Materials	Industrial Gases	Air Products & Chemicals, Inc.
+IFF	Materials	Specialty Chemicals	International Flavors & Fragrances Inc
+SEE	Materials	Paper Packaging	Sealed Air Corp
+DWDP	Materials	Diversified Chemicals	DowDuPont Inc
+MON	Materials	Fertilizers & Agricultural Chemicals	Monsanto Company
+ECL	Materials	Specialty Chemicals	Ecolab Inc.
+PPG	Materials	Specialty Chemicals	PPG Industries, Inc.
+EMN	Materials	Diversified Chemicals	Eastman Chemical Company
+NUE	Materials	Steel	Nucor Corporation
+FMC	Materials	Fertilizers & Agricultural Chemicals	FMC Corp
+CF	Materials	Fertilizers & Agricultural Chemicals	CF Industries Holdings, Inc.
+MOS	Materials	Fertilizers & Agricultural Chemicals	Mosaic Co
+FCX	Materials	Copper	Freeport-McMoRan Inc
+IRM	Real Estate	Specialized REITs	Iron Mountain Incorporated (Delaware) REIT
+AIV	Real Estate	Residential REITs	Apartment Investment and Management Co
+SBAC	Real Estate	Specialized REITs	SBA Communications Corporation
+CBG	Real Estate	Real Estate Services	CBRE Group Inc
+HST	Real Estate	Hotel & Resort REITs	Host Hotels and Resorts Inc
+DLR	Real Estate	Specialized REITs	Digital Realty Trust, Inc.
+AMT	Real Estate	Specialized REITs	American Tower Corp
+ESS	Real Estate	Residential REITs	Essex Property Trust Inc
+PSA	Real Estate	Specialized REITs	Public Storage
+CCI	Real Estate	Specialized REITs	Crown Castle International Corp. (REIT)
+EXR	Real Estate	Specialized REITs	Extra Space Storage, Inc.
+DRE	Real Estate	Industrial REITs	Duke Realty Corp
+EQIX	Real Estate	Specialized REITs	Equinix, Inc.
+UDR	Real Estate	Residential REITs	UDR, Inc.
+SLG	Real Estate	Office REITs	SL Green Realty Corp
+AVB	Real Estate	Residential REITs	AvalonBay Communities Inc
+O	Real Estate	Retail REITs	Realty Income Corp
+HCN	Real Estate	Health Care REITs	HORIZONS CHINA HIGH DIVIDEND YIELD ETF
+EQR	Real Estate	Residential REITs	Equity Residential
+PLD	Real Estate	Industrial REITs	Prologis Inc
+FRT	Real Estate	Retail REITs	Federal Realty Investment Trust
+WY	Real Estate	Specialized REITs	Weyerhaeuser Co
+ARE	Real Estate	Office REITs	Alexandria Real Estate Equities Inc
+VTR	Real Estate	Health Care REITs	Ventas, Inc.
+BXP	Real Estate	Office REITs	Boston Properties, Inc.
+MAA	Real Estate	Residential REITs	Mid-America Apartment Communities Inc
+VNO	Real Estate	Office REITs	Vornado Realty Trust
+REG	Real Estate	Retail REITs	Regency Centers Corp
+GGP	Real Estate	Retail REITs	GGP Inc
+HCP	Real Estate	Health Care REITs	HCP, Inc.
+KIM	Real Estate	Retail REITs	Kimco Realty Corp
+SPG	Real Estate	Retail REITs	Simon Property Group Inc
+MAC	Real Estate	Retail REITs	Macerich Co
+CTL	Telecommunication Services	Integrated Telecommunication Services	Centurylink Inc
+VZ	Telecommunication Services	Integrated Telecommunication Services	Verizon Communications Inc.
+T	Telecommunication Services	Integrated Telecommunication Services	AT&T Inc.
+EIX	Utilities	Electric Utilities	Edison International
+AWK	Utilities	Water Utilities	American Water Works Company Inc
+AEE	Utilities	Multi-Utilities	Ameren Corp
+SRE	Utilities	Multi-Utilities	Sempra Energy
+NI	Utilities	Multi-Utilities	NiSource Inc.
+EXC	Utilities	Multi-Utilities	Exelon Corporation
+ES	Utilities	Multi-Utilities	Eversource Energy
+LNT	Utilities	Electric Utilities	Alliant Energy Corporation
+WEC	Utilities	Electric Utilities	WEC Energy Group Inc
+PNW	Utilities	Multi-Utilities	Pinnacle West Capital Corporation
+PPL	Utilities	Electric Utilities	PPL Corp
+CMS	Utilities	Multi-Utilities	CMS Energy Corporation
+XEL	Utilities	Multi-Utilities	Xcel Energy Inc
+CNP	Utilities	Multi-Utilities	CenterPoint Energy, Inc.
+AEP	Utilities	Electric Utilities	American Electric Power Company Inc
+DUK	Utilities	Electric Utilities	Duke Energy Corp
+NEE	Utilities	Multi-Utilities	NextEra Energy Inc
+ETR	Utilities	Electric Utilities	Entergy Corporation
+NRG	Utilities	Independent Power Producers & Energy Traders	NRG Energy Inc
+DTE	Utilities	Multi-Utilities	DTE Energy Co
+ED	Utilities	Electric Utilities	Consolidated Edison, Inc.
+AES	Utilities	Independent Power Producers & Energy Traders	AES Corp
+FE	Utilities	Electric Utilities	FirstEnergy Corp.
+PEG	Utilities	Electric Utilities	Public Service Enterprise Group Inc.
+SO	Utilities	Electric Utilities	Southern Co
+D	Utilities	Electric Utilities	Dominion Energy Inc
+PCG	Utilities	Multi-Utilities	PG&E Corporation
+SCG	Utilities	Multi-Utilities	SCANA Corporation
